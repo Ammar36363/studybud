@@ -4,13 +4,13 @@ A web-based study group management app built with Django. Users can join or crea
 
 ## Features
 
-- 🔐 User authentication (Login/Logout/Register)
-- 🗂 Create & join study rooms
-- 🧵 Post messages in rooms
-- 👤 User profiles
-- 🔍 Search functionality
+-  User authentication (Login/Logout/Register)
+-  Create & join study rooms
+-  Post messages in rooms
+-  User profiles
+-  Search functionality
 
-## 🛠️ Built With
+## Built With
 
 - Python
 - Django
@@ -18,7 +18,7 @@ A web-based study group management app built with Django. Users can join or crea
 - SQLite (default) or PostgreSQL (optional)
 
 
-## 📦 Installation
+## Installation
 
 1. Clone the repo:
    ```
@@ -46,3 +46,6 @@ A web-based study group management app built with Django. Users can join or crea
 - Real-time chat (using Django Channels or WebSockets)
 - Mobile-friendly design
    
+## App Preview:
+
+![Homepage](https://github.com/user-attachments/assets/f488de31-85e5-4d9d-ac06-81e43b70d89f)
