@@ -48,4 +48,4 @@ A web-based study group management app built with Django. Users can join or crea
    
 ## App Preview:
 
-![Homepage](https://github.com/user-attachments/assets/f488de31-85e5-4d9d-ac06-81e43b70d89f)
+![Homepage](https://github.com/user-attachments/assets/f32be30d-824f-4fa7-b00d-624e96efccec)
